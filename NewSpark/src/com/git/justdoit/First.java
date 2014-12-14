@@ -1,3 +1,4 @@
+package com.git.justdoit;
 
 public class First {
 
