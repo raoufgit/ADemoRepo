@@ -13,6 +13,7 @@ public class First {
 		System.out.println("New Work done");
 		System.out.println("New Work done");
 		System.out.println("New Work done");
+		System.out.println("new story commit");
 
 	}
 
